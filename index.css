@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+h1 {
+    color: blue;
+    font: 56px;
+    font-size: larger;
+    font-style: oblique;
+}
